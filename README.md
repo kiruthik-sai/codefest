@@ -1,4 +1,4 @@
-:trophy: # Philly Codefest 2022,  WINNER - Philly Codefest 2022 Student Team Award :trophy:
+# :trophy: Philly Codefest 2022,  WINNER - Philly Codefest 2022 Student Team Award :trophy:
 
 ### Link - https://devpost.com/software/winter-arch
 ### Demo - https://youtu.be/FHMPoXEN0qk
